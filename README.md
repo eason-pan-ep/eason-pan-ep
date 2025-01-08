@@ -1,3 +1,4 @@
+<h3 align="center"></h3>
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey👋..;I'm+Eason;Welcome)
