@@ -1,13 +1,12 @@
+<div align="center">
+
 # Hi there! 👋 I'm Eason Pan
 
-<div align="center">
-  
 ### 🔗 Connect With Me
 
 [<img src="https://img.shields.io/badge/Personal_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/eason-pan-ep)
 [<img src="https://img.shields.io/badge/Work_GitHub-2088FF?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/eason-pan-bc)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/easonp/)
-
 </div>
 
 ## 🚀 Technical Expertise
