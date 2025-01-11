@@ -46,7 +46,7 @@ I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eason-pan-ep&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eason-pan-ep&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eason-pan-ep&theme=tokyonight&utcOffset=-7" />
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="45" height="45" /> Work Account Highlight
@@ -57,7 +57,7 @@ I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eason-pan-bc&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eason-pan-bc&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eason-pan-bc&theme=tokyonight&utcOffset=-7" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="45" height="45" /> Recent Projects
