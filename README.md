@@ -13,10 +13,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" height="45" /> Technical Expertise
 
-- 🔧 **Backend Development**: Python (Flask, SQLAlchemy), Java, RESTful APIs, Microservices
-- 🎯 **Frontend, Mobile & Desktop**: React, React Native, Electron, TypeScript, Expo, Modern JavaScript
-- 🤖 **AI & ML**: OpenAI Integration, LangChain, TensorFlow, Custom AI Agents
-- 🗄️ **Databases**: PostgreSQL, Firebase, MySQL, Database Optimization
+- 🔧 **Backend Development**: Python (Flask, SQLAlchemy), Java, RESTful APIs
+- 🎯 **Frontend, Mobile & Desktop**: React, React Native, Electron, TypeScript, Expo, JavaScript
+- 🤖 **AI & ML**: OpenAI Integration, LangChain, Custom AI Agents
+- 🗄️ **Databases**: PostgreSQL, Firebase 
 - ☁️ **Cloud & DevOps**: GCP, AWS, OpenShift, CI/CD Pipelines
 - 🔍 **Testing & Quality**: Pytest, JUnit, Jest, Test-Driven Development
 
