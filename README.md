@@ -33,6 +33,7 @@ I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
 - Learning ROS2 (Robot Operating System)
 - Exploring computer vision applications in robotics
 - Studying motion planning and control systems
+- Experimenting with Gazebo simulator
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="45" height="45" /> GitHub Statistics
 
