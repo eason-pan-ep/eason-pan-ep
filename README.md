@@ -33,7 +33,6 @@ I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="45" height="45" /> GitHub Statistics
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="45" height="45" /> Personal Account
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eason-pan-ep&theme=tokyonight" />
 
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -46,17 +45,6 @@ I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eason-pan-ep&theme=tokyonight&utcOffset=-7" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="45" height="45" /> Work Account Highlight
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eason-pan-bc&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eason-pan-bc&theme=tokyonight" />
-</div>
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eason-pan-bc&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eason-pan-bc&theme=tokyonight&utcOffset=-7" />
-</div>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="45" height="45" /> Recent Projects
 
 1. **Tournament Assistant** (In Progress)
@@ -64,9 +52,9 @@ I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
    - Electron for build desktop app
    - Electron-store to utilize local storage
      
-2. **AI-Driven Bucket-list Planner** (In Progress)
-   - Flask + SQLAlchemy backend with AI agent integration
-   - React frontend (currently in design phase)
+2. **Machine Learning Practice** (In Progress)
+   - Understand more ML
+   - Hands-on practices using Python
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="45" height="45" /> Let's Connect!
 Feel free to reach out for collaborations or just a chat!
