@@ -47,14 +47,10 @@ I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="45" height="45" /> Recent Projects
 
-1. **Tournament Assistant** (In Progress)
+**Tournament Assistant** (In Progress)
    - JS + React.js
    - Electron for build desktop app
    - Electron-store to utilize local storage
-     
-2. **Machine Learning Practice** (In Progress)
-   - Understand more ML
-   - Hands-on practices using Python
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="45" height="45" /> Let's Connect!
 Feel free to reach out for collaborations or just a chat!
