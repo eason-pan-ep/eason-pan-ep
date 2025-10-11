@@ -14,11 +14,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" height="45" /> Technical Expertise
 
-- 🔧 **Backend Development**: Python (Flask, SQLAlchemy), Java, RESTful APIs
-- 🎯 **Frontend, Mobile & Desktop**: React, React Native, Electron, TypeScript, Expo, JavaScript
-- 🤖 **AI & ML**: OpenAI Integration, LangChain, Custom AI Agents
-- 🗄️ **Databases**: PostgreSQL, Firebase 
-- ☁️ **Cloud & DevOps**: GCP, AWS, OpenShift, CI/CD Pipelines
+- 🔧 **Backend Development**: Python, Java, RESTful APIs
+- 🎯 **Frontend, Mobile & Desktop**: ReactJS, React Native, Electron, TypeScript, Expo, JavaScript
+- 🤖 **AI & ML**: LLM Integration, LangChain, Custom AI Agents, Computer Vision, Robotics
+- 🗄️ **Databases**: PostgreSQL, MySQL, SQLite, NoSQL 
+- ☁️ **Cloud & DevOps**: OCI, GCP, AWS, Docker/Container, CI/CD Pipelines
 - 🔍 **Testing & Quality**: Pytest, JUnit, Jest, Test-Driven Development
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="45" height="45" /> Current Learning Journey
@@ -29,6 +29,8 @@ I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
 - Exploring Large Language Models and their applications
 - Building AI-powered tools for practical use cases
 - Studying prompt engineering, MCP, and AI agent architectures
+
+### Cloud Computing
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="45" height="45" /> GitHub Statistics
