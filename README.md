@@ -25,9 +25,9 @@
 
 I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
 
-### Generative AI
+### Generative AI - Agentic Workflow
 - Exploring Large Language Models and their applications
-- Building AI-powered tools for practical use cases
+- Learning and building agentic workflow to solve practical use cases
 - Studying prompt engineering, MCP, and AI agent architectures
 
 ### Cloud Computing
