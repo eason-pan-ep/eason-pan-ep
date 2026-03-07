@@ -26,12 +26,22 @@
 
 I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
 
-### Generative AI - Agentic Workflow
+### 🤖 Generative AI - Agentic Workflow
 - Exploring Large Language Models and their applications
 - Learning and building agentic workflow to solve practical use cases
 - Studying prompt engineering, MCP, and AI agent architectures
 
-### Cloud Computing
+### 🏗️ System Design Topics
+- Scalability patterns: load balancing, caching, and database sharding
+- Distributed systems: consistency, availability, and fault tolerance
+- API design: RESTful best practices, versioning, and contract-first design
+- Applying system design thinking to build more robust and maintainable services
+
+### ✨ Clean Coding Practices
+- SOLID principles, design patterns, and code readability
+- Refactoring techniques for more maintainable and extensible code
+- Stronger code review judgment — especially critical when collaborating with AI coding agents
+
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="45" height="45" /> GitHub Statistics
