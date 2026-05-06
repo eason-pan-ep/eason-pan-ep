@@ -15,7 +15,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="45" height="45" /> How I Build
 
-I run every product through three lenses:
+I run every product idea through three lenses:
 
 - 🤖 **Agentic** — when the value comes from open-ended reasoning, not a fixed flow. The agent loop *is* the product.
 - 🧩 **Agent-ready** — when deterministic code does the job today, but the seams are designed so an agent can slot in once the capability or cost curve makes it worthwhile.
