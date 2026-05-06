@@ -1,14 +1,14 @@
-<h3 align="center"></h3>
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey👋..;I'm+Eason;Welcome)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&duration=3000&color=33FF33&center=true&vCenter=true&width=300&lines=Hey+👋;I'm+Eason)
 
-### 🔗 Connect With Me
+<h3 align="center"><em>Product-minded engineer. I care about what we ship as much as why we build it.</em></h3>
 
-[<img src="https://img.shields.io/badge/Personal_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/eason-pan-ep)
+#### 🔗 Connect With Me
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/easonp/)
-<br />Projects: https://eleventh-photon.com/
-<br />Blog: https://thought-bytes.com/
+[<img src="https://img.shields.io/badge/Projects-0D9488?style=for-the-badge&logoColor=white" />](https://eleventh-photon.com/)
+[<img src="https://img.shields.io/badge/Blog-7C3AED?style=for-the-badge&logoColor=white" />](https://thought-bytes.com/)
 </div>
 
 
