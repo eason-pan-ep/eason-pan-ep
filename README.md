@@ -13,34 +13,16 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" height="45" /> Technical Expertise
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="45" height="45" /> How I Build
 
-- 🔧 **Backend Development**: Python, Java, RESTful APIs
-- 🎯 **Frontend, Mobile & Desktop**: ReactJS, React Native, Electron, TypeScript, Expo, JavaScript
-- 🤖 **AI & ML**: LLM Integration, LangChain, Custom AI Agents, Computer Vision, Robotics
-- 🗄️ **Databases**: PostgreSQL, MySQL, SQLite, NoSQL 
-- ☁️ **Cloud & DevOps**: OCI, GCP, AWS, Docker/Container, CI/CD Pipelines
-- 🔍 **Testing & Quality**: Pytest, JUnit, Jest, Test-Driven Development
+I run every product through three lenses:
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="45" height="45" /> Current Learning Journey
+- 🤖 **Agentic** — when the value comes from open-ended reasoning, not a fixed flow. The agent loop *is* the product.
+- 🧩 **Agent-ready** — when deterministic code does the job today, but the seams are designed so an agent can slot in once the capability or cost curve makes it worthwhile.
+- 🛤️ **Deterministic** — when the path is well-defined and the cost of failure or latency outweighs flexibility.
 
-I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
+> Knowing when *not* to use an agent is a skill in itself.
 
-### 🤖 Generative AI - Agentic Workflow
-- Exploring Large Language Models and their applications
-- Learning and building agentic workflow to solve practical use cases
-- Studying prompt engineering, MCP, and AI agent architectures
-
-### 🏗️ System Design Topics
-- Scalability patterns: load balancing, caching, and database sharding
-- Distributed systems: consistency, availability, and fault tolerance
-- API design: RESTful best practices, versioning, and contract-first design
-- Applying system design thinking to build more robust and maintainable services
-
-### ✨ Clean Coding Practices
-- SOLID principles, design patterns, and code readability
-- Refactoring techniques for more maintainable and extensible code
-- Stronger code review judgment — especially critical when collaborating with AI coding agents
 
 
 
@@ -48,17 +30,12 @@ I'm deeply passionate about expanding my knowledge in cutting-edge technologies:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eason-pan-ep&theme=tokyonight" />
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eason-pan-ep&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eason-pan-ep&theme=tokyonight" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eason-pan-ep&theme=tokyonight&utcOffset=-7" />
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eason-pan-ep&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eason-pan-ep&theme=tokyonight&utcOffset=-7" />
-</div>
+<br /><br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="45" height="45" /> Let's Connect!
-Feel free to reach out for collaborations or just a chat!
-- Email: eason.pan@proton.me
-- Location: Vancouver, BC, Canada
+<div align="center">
+
+📬 [eason.pan@proton.me](mailto:eason.pan@proton.me) · 📍 Vancouver, BC
+
+</div>
